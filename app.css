@@ -1,0 +1,115 @@
+html
+{
+	height: 100%;
+}
+.navbar {
+  min-height: 80px;
+}
+.navbar-brand > img
+{
+	padding-left: 3em;
+}
+/*.navbar-brand {
+  padding: 0 15px;
+  height: 80px;
+  line-height: 80px;
+}*/
+
+#banner
+{
+	width: 100%;
+	height: 562px;
+	background-image: url('C:/Users/Ashwin/Documents/Assignment - Social Beat/Images/Banner.jpg');
+	background-size: cover;
+	background-position: center;
+}
+#textbannerbtm
+{
+padding-top: 23em;
+}
+#textbannerbtm > h3
+{
+	color: #48C5C5;
+}
+#textbannerbtm > p
+{
+	line-height: 1em;
+	color: #FFFFFF;
+}
+.btn btn-lg {
+  font-family: Raleway-SemiBold;
+  font-size: 13px;
+  color: rgba(108, 88, 179, 0.75);
+  letter-spacing: 1px;
+  line-height: 15px;
+  border: 2px solid pink;
+  border-radius: 40px;
+  background: pink;
+  transition: all 0.3s ease 0s;
+  position: center;
+}
+
+#bannerForm
+{
+	padding-top: 50px;
+	padding-bottom: 40px;
+	padding-left:225px; 
+}
+#bannerForm > h3
+{
+	background-color: #48C5C5;
+	text-align: center;
+	margin-bottom: 0px;
+	color: #FFFFFF;
+	height:60px;
+}
+#bannerForm > div
+{
+	background-color: rgba(0,0,0,0.2);
+	height: 420px;	
+}
+
+/*boxForm > form .formElements
+{
+	
+	width: 393px;
+
+}*/
+#boxForm .container
+{
+	padding-top: 30px;
+	padding-right: 0px;
+	padding-left: 0px;
+}
+#boxForm .container .formSpacings
+{
+	padding-top: 20px;
+}
+#boxForm .container .formElements
+{
+	width: 373px;
+	height: 33px;
+	background-color: rgba(0,0,0,0.2);
+	color: #FFFFFF;
+	margin-left: 10px;
+
+}
+
+#abtExamPara
+{
+	margin-top: 75px;
+	margin-bottom: 75px;
+
+}
+
+#abtExamPara > h1
+{
+	color:#48C5C5;
+}
+
+#keyBenefits
+{
+	width: 100%;
+	height:733px;
+	background-image: url('C:/Users/Ashwin/Documents/Assignment - Social Beat/Images/background1.jpg');
+}
